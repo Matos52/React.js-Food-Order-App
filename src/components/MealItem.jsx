@@ -1,5 +1,6 @@
 import { currencyFormatter } from "../util/formatting.js";
 import Button from "./UI/Button.jsx";
+import React from "react";
 
 export default function MealItem({ meal }) {
   return (

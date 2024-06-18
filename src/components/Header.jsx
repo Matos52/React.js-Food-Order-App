@@ -1,5 +1,6 @@
 import logo from "../assets/logo.jpg";
 import Button from "./UI/Button";
+import React from "react";
 
 export default function Header() {
   return (
